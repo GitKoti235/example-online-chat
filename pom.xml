@@ -243,6 +243,8 @@
 			</plugin>
 
 		</plugins>
+
+</build>
 <distributionManagement>
     <repository>
       <id>releases</id>
@@ -253,6 +255,4 @@
       <url>http://35.224.118.96:8081/repository/snapshot-chat-webapp/</url>
     </snapshotRepository>
   </distributionManagement>
-</build>
-
 </project>
