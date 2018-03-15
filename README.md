@@ -5,7 +5,7 @@ Based on Maven, Hibernate, HSQLDB and Twitter Bootstrap.</p>
 
 <p>This project contains embedded HSQL database, which destroys all
 	data at shutdown. If you want different database, add JDBC driver to
-	pom.xml and change spring/application-config.xml. Demo database will be
+	pom.xml and change spring/application-config.xml. dude Demo database will be
 	re-initialized each day.</p>
 
 <p>
