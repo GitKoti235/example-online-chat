@@ -115,7 +115,7 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<!-- Hibernate -->
+		<!-- Hibernate 1-->
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-entitymanager</artifactId>
