@@ -9,7 +9,7 @@ Based on Maven, Hibernate, HSQLDB and Twitter Bootstrap.</p>
 	re-initialized each day.</p>
 
 <p>
-	How to run:
+	How to re run:
 	<code>mvn jetty:run</code>
 </p>
 
